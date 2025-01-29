@@ -8,11 +8,11 @@
 
 - 🔭 I’m currently working on **Banregio**
 
-- 🌱 I’m currently learning **Flutter and AI**
+- 🌱 I’m currently learning **Flutter and React with Redux**
 
 - 👨‍💻 All of my projects are available in [my portfolio](https://d3ysm1b4j9pdj.cloudfront.net/)
 
-- 💬 Ask me about **Angular, Nest, Flutter or Springboot**
+- 💬 Ask me about **Angular, React, Nest, NodeJS, Flutter or Springboot**
 
 - 📫 How to reach me **isc.pgd@outlook.com**
 
